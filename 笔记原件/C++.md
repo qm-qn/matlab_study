@@ -17,7 +17,7 @@ cout << "c=" << c << endl;
 
 ###### 修改精度
 
-fixed设置修改的是小数位数
+fixed修改小数位数
 
 setprecision(n)设置位数
 
